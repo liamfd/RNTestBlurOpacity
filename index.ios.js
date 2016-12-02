@@ -2,11 +2,7 @@
 
 import React, { Component } from 'react';
 import { View, Text, Image, AppRegistry } from 'react-native';
-
-import App from './src/views/App';
-
 import { BlurView } from 'react-native-blur';
-
 
 export default class TestBlurOpacity extends Component {
   constructor(props){
